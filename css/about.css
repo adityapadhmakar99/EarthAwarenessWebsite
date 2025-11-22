@@ -1,0 +1,51 @@
+head
+{
+	background-repeat:no-repeat; 
+	background-size: 100%;
+	height:720px;
+}
+
+a:hover
+{
+	background-color:lightgrey;
+}
+
+.c1:hover
+{
+	background-color:lightgrey;
+}
+
+a
+{
+	text-decoration:none;
+	color:white;
+}
+
+.img_footer
+{
+	height:50px;
+	width:50px;
+	box-align:center;
+}
+
+#social_img
+{
+	align:right;
+	float:right;
+}
+
+body
+{
+	font-family:"verdana";
+	text-align:justify;
+	background-repeat:no-repeat;
+	background-image:url('../res/img/c.jpg');
+	background-size:cover;
+}
+
+footer
+{
+	background-size:cover;
+	background-image: url('../res/img/xyz.jpg');
+	background-repeat: no-repeat;
+}
